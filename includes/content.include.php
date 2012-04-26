@@ -10,7 +10,7 @@
 			  
 <section id="bio">	
 	<div class="page-header first">
-				  <h1>Bio <small>Candian & Brazilian – Based in Toronto, Canada and born in Sao Paulo, Brazil</small></h1>
+				  <h1>About me <small>Candian & Brazilian – Based in Toronto, Canada and born in Sao Paulo, Brazil</small></h1>
 	</div>
 				  <p>Some call him an “interaction engineer” because on a daily basis he would be working on visual &amp; graphic design (there’s a difference),&nbsp;user research, product strategy & development, usability testing, interaction design, light front-end development, communicating with developers/engineers about features in their bit-pusher lingo.</p>
 				  <p><strong>User Experience (UX) &amp; Interface Designer (GUI / IA / AD)</strong> — a multi-skilled professional, build Mobile and Web Applications&nbsp;as well as able to develop and execute briefings of Integrated Online, Integrated Traditional Campaigns. His specialty is beautiful design with meticulous user experience applied. With over 10 years experience in advertising and web 2.0 products/services in many industries such as Pharma, Law Firms, Auto, Banks, Mobile Application, Smart Offices, Retail, Publications, Professionals Associations, Fashion and Utility Ware, Online StartUps, Real-Estate Builders, Health Care, Software and Web Application.</p>
