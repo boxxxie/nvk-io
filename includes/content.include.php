@@ -115,6 +115,11 @@
 	</div>
 	
 				<blockquote>
+				  <p>Entrepreneurship is the pursuit of opportunity without regard to resources currently controlled</p>
+				  <small>Howard Stevenson</small>
+				</blockquote>
+
+				<blockquote>
 				  <p>If you don't fail at least 90 percent of the time, you're not aiming high enough.</p>
 				  <small>Alan Kay</small>
 				</blockquote>
