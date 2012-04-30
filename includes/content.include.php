@@ -24,7 +24,7 @@
 </section>
 
 <div  id="working"></div>
-<section id="working">		 
+<section>		 
 	<div class="page-header">
 				  <h1>Working <small>This is what's been keeping me busy... very busy...</small></h1>
 	</div>

@@ -21,13 +21,6 @@ body {
 ul.nav{
 	padding-top:10px;
 }
-
-/*@media (min-width: 980px)
-	.subnav-fixed .nav {
-	width: 938px;
-	margin: 0 auto;
-	padding: 0 1px;
-}*/
 section{
 	margin-top:60px;
 }
