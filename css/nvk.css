@@ -23,6 +23,8 @@ ul.nav{
 }
 section{
 	margin-top:60px;
+	clear:both;
+	display:block;
 }
 li code{
 	margin-bottom:10px;
@@ -94,9 +96,10 @@ ul.social-text a{
 	color:#7b7d7d;
 }
 .flick-stuff-v2{	
-	margin-bottom: 28px;
+/*	margin-bottom: 48px;*/
 	display:block;
 	width:780px;
+	clear:both;
 }
 img.smaller-image{
 	width:39px;

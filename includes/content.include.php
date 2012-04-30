@@ -5,7 +5,6 @@
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
  		 <p>Product, UXD &amp; GUID, Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
-		
 </div>
 </section>
 	
@@ -21,6 +20,7 @@
 				  <p>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></p>
 	 
 <?php include 'includes/flickr.php'; ?>
+<br><br>
 </section>
 
 <div  id="working"></div>
