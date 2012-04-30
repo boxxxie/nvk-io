@@ -1,4 +1,5 @@
 <div id="home"></div>
+<section>
 <div class="jumbotron subhead">
 		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
@@ -6,11 +7,11 @@
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
 		
 </div>
-		
+</section>
 	
 <div  id="bio"></div>	  
 <section>	
-	<div class="page-header first">
+	<div class="page-header">
 				  <h1>About me <small>Candian & Brazilian – Based in Toronto, Canada and born in Sao Paulo, Brazil</small></h1>
 	</div>
 				  <p>Some call him an “interaction engineer” because on a daily basis he would be working on visual &amp; graphic design (there’s a difference),&nbsp;user research, product strategy & development, usability testing, interaction design, light front-end development, communicating with developers/engineers about features in their bit-pusher lingo.</p>

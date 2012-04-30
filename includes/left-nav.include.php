@@ -1,4 +1,4 @@
-<div style="position:relative;">
+<div style="nav-container">
 				<ul class="nav nav-list left-nav">
 					<li><a href="#home">Home</a></i>
 					<li><a href="#bio">About Me</a></i>

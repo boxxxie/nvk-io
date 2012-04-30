@@ -2,7 +2,7 @@ body {
 	height:100%;
 }
 .content{
-	padding-top:50px;
+/*	padding-top:50px;*/
 }
 .title {
 	padding-top: 30px;
@@ -15,6 +15,13 @@ body {
 	margin-bottom:30px;
 	display:block;
 }
+.nav-container{
+	position:relative;
+}
+ul.nav{
+	padding-top:10px;
+}
+
 /*@media (min-width: 980px)
 	.subnav-fixed .nav {
 	width: 938px;
