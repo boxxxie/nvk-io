@@ -9,7 +9,6 @@
 
     <!-- Le styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link href="css/bootstrap-responsive.mini.css" rel="stylesheet">
     <link rel="stylesheet" href="css/jquery.lightbox-0.5.css"/>
 	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="css/nvk.css">
