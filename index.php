@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/jquery.lightbox-0.5.css"/>
 	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="css/nvk.css">
-	
+	<link rel="shortcut icon" href="img/favicon.png">
 
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -106,7 +106,6 @@
     }
 
   });
-  
 
 </script>
 
