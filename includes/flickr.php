@@ -9,7 +9,7 @@
 //
 // *********************************************************************************************************************************************
 	  $flickr_id = '29044926%40N00';
-	  $feed_url = 'http://api.flickr.com/services/feeds/photos_public.gne?id='.$flickr_id.'&lang=en-us&format=rss_200';
+	  $feed_url = 'http://api.flickr.com/services/feeds/photos_public.gne?id='.$flickr_id.'&lang=en-us&format=rss_300&api_key26cf0bf9f63f4abfb5f9b5e1b57c15db';
 	  $flickr = html_entity_decode(file_get_contents($feed_url));
 	  $images = array();
 	  preg_match_all('/http:\/\/farm8.+m\.jpg/',$flickr,$images);

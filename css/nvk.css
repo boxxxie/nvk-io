@@ -2,7 +2,7 @@ body {
 	height:100%;
 }
 .content{
-	padding-top: 40px;
+	padding-top:50px;
 }
 .title {
 	padding-top: 30px;
@@ -10,6 +10,9 @@ body {
 .title h1{
 	font-size:500%;
 	color:#ccc;
+}
+.subhead img{
+	margin-bottom:30px;
 }
 /*@media (min-width: 980px)
 	.subnav-fixed .nav {
@@ -29,6 +32,10 @@ li code{
 	margin: 18px 0;
 	border-bottom: 1px solid #EEE;
 	clear:both;
+}
+#home{
+	display:block;
+	/*height:20px;*/
 }
 .jumbotron h1 {
 	margin-bottom: 9px;
@@ -88,10 +95,11 @@ ul.social-text a{
 .flick-stuff-v2{	
 	margin-bottom: 28px;
 	display:block;
+	width:780px;
 }
 img.smaller-image{
-	width:38px;
-	height:38px;
+	width:39px;
+	height:39px;
 	float:left;
 
 }

@@ -1,14 +1,15 @@
-<div class="jumbotron subhead" id="home">
-	
+<div id="home"></div>
+<div class="jumbotron subhead">
+		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
  		 <p>Product, UXD &amp; GUID, Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
-		<?php include 'includes/flickr.php'; ?>
+		
 </div>
 		
 	
-			  
-<section id="bio">	
+<div  id="bio"></div>	  
+<section>	
 	<div class="page-header first">
 				  <h1>About me <small>Candian & Brazilian – Based in Toronto, Canada and born in Sao Paulo, Brazil</small></h1>
 	</div>
@@ -18,9 +19,10 @@
 				  <p>He is fluent (verbal and written) in English, Brazilian Portuguese, Spanish and "Geek-speak". Over the years, he has worked as Art Director, Photographer, Graphic/Web Designer, UX/UI Specialist and is also well-versed in video production and audio recording.</p>
 				  <p>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></p>
 	 
+<?php include 'includes/flickr.php'; ?>
 </section>
 
-
+<div  id="working"></div>
 <section id="working">		 
 	<div class="page-header">
 				  <h1>Working <small>This is what's been keeping me busy... very busy...</small></h1>
@@ -58,7 +60,8 @@
 
 </section>
 
-<section id="availability">		
+<div  id="availability"></div>
+<section>		
 	
 	<div class="page-header">
 				  <h1>Availability <small>Check out this article about <a href="http://uxdesign.smashingmagazine.com/2012/02/16/how-to-recruit-ux-designer/">"how to hire UX"</a></small></h1>
@@ -68,7 +71,10 @@
 				</p>
 </section>
 
-<section id="clients">		
+
+
+<div  id="clients"></div>
+<section>		
 	
 	<div class="page-header">
 				  <h1>Clients and Partners <small>I have the pleasure of working with some incredible people</small></h1>
@@ -76,7 +82,10 @@
 				<p>BMO, CORUS, Wikiposit, CHANTAL DESLOGES,&nbsp;RIPE APPS, Wattpad.com, KLICK (Accounts – Walmart, Ford, Novartis, Pfizer, Rogers, Centrum, Abbott, Teva), CP+B Group (Accounts – Kamik), BERKLEY Canada, DELOITTE, LAVALIFE, HRPA, WALMART,VM (Accounts – Kijiji, e-Bay), PHCP + Swarskof, BMW, NOKIA, BRIARWOODS, GREENOFFICES, DELPARK HOMES, ROBERT HALF, DIVERSICARE, HAZELTON, OPTIMUM CARE, VIDESKTOP, CITYFLITZ, SENECA COLLEGE, HOTJET, FARENGROUP, BRIGHTWORKS, TBS, LIBERTY HOME GROUP, SUNSET HOMES, EZ-RESULTS, NEWANDUSEDCARS, DANIELS MAINTENANCE AND CONSTRUCTION, NOKIA.</p>
 </section>
 
-<section id="contact">		
+
+
+<div  id="contact"></div>
+<section>		
 	
 	<div class="page-header">
 				  <h1>Contact <small>Communication Protocol</small></h1>
@@ -108,7 +117,9 @@
 					</ol>
 </section>
 
-<section id="quotes">		
+
+<div  id="quotes"></div>
+<section>		
 	
 	<div class="page-header">
 				  <h1>Quotes <small>we all need some inspiration</small></h1>
@@ -287,7 +298,10 @@
 				
 </section>
 
-<section id="tools">		
+
+
+<div  id="tools"></div>
+<section>		
 	
 	<div class="page-header">
 				  <h1>Tools I Use <small>Talking shop</a></small></h1>
