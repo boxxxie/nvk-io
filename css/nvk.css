@@ -13,6 +13,7 @@ body {
 }
 .subhead img{
 	margin-bottom:30px;
+	display:block;
 }
 /*@media (min-width: 980px)
 	.subnav-fixed .nav {
