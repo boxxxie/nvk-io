@@ -1,9 +1,11 @@
 <section>
 <div class="jumbotron subhead">
 		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
-<div id="home"></div>
+		<div id="home"></div>
+		<br><br>
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
  		 <p>Product, UXD &amp; GUID, Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
+		 
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
 </div>
 </section>
