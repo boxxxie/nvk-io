@@ -5,7 +5,7 @@
 		<div  id="bio"></div>
 		<br><br>
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
- 		 <p>Product, UXD &amp; GUID, Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
+ 		 <p>Product, Big picture, UXD &amp; GUID, Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
 		 
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
 </div>
@@ -16,7 +16,7 @@
 	<div class="page-header">
 				  <h1>About me <small>Candian & Brazilian – Based in Toronto, Canada and born in Sao Paulo, Brazil</small></h1>
 	</div>
-				  <p>Some call him an “interaction engineer” because on a daily basis he would be working on visual &amp; graphic design (there’s a difference),&nbsp;user research, product strategy & development, usability testing, interaction design, light front-end development, communicating with developers/engineers about features in their bit-pusher lingo.</p>
+				  <p>Some call him an “interaction engineer” because on a daily basis he would be working on visual &amp; graphic design (there’s a difference),&nbsp;user research, product strategy & development, big picture, usability testing, interaction design, light front-end development, communicating with developers/engineers about features in their bit-pusher lingo.</p>
 				  <p><strong>User Experience (UX) &amp; Interface Designer (GUI / IA / AD)</strong> — a multi-skilled professional, build Mobile and Web Applications&nbsp;as well as able to develop and execute briefings of Integrated Online, Integrated Traditional Campaigns. His specialty is beautiful design with meticulous user experience applied. With over 10 years experience in advertising and web 2.0 products/services in many industries such as Pharma, Law Firms, Auto, Banks, Mobile Application, Smart Offices, Retail, Publications, Professionals Associations, Fashion and Utility Ware, Online StartUps, Real-Estate Builders, Health Care, Software and Web Application.</p>
 				  <p>Rodolfo can lead creative teams through complex marketing programs and advertising campaigns while multi-tasking in a fast-paced environment, while keeping a smile on his face and injecting good humour into working relationships.</p>
 				  <p>He is fluent (verbal and written) in English, Brazilian Portuguese, Spanish and "Geek-speak". Over the years, he has worked as Art Director, Photographer, Graphic/Web Designer, UX/UI Specialist and is also well-versed in video production and audio recording.</p>
