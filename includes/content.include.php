@@ -5,12 +5,11 @@
 		<div  id="bio"></div>
 		<br><br>
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
- 		 <p>Product, Big picture, UXD &amp; GUID, Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
+ 		 <p>Product Developer, Disruptive Entrepreneur, UX & Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, <br/>Founder and CEO of <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder  and CPO of <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
 		 
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
 </div>
 </section>
-	
 	  
 <section>	
 	<div class="page-header">
