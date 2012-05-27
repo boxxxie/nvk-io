@@ -6,7 +6,8 @@
 		<br><br>
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
  		 <p>Product Developer, Disruptive Entrepreneur, UX & Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, Founder and CEO of <a href="http://www.ripeapps.com">@RipeApps</a> &amp; Founder  and CPO of <a href="http://www.quandl.com">@Quandl</a>, Shutterbug, Commuter Cyclist.</p>
-		 <p>You should follow me on Twitter <a href="http://twitter.com/nvk">here</a></p>
+		 <br>
+		 <h4>You should follow me on Twitter <a href="http://twitter.com/nvk">here</a></h4>
 		 
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
 </div>
