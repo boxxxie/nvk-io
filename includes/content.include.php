@@ -15,7 +15,7 @@
 	  
 <section>	
 	<div class="page-header">
-				  <h1>About me <small>Acronym fun: UX, GUI, IA, AD, </small></h1>
+				  <h1>About me <small> Acronym fun: UX, GUI, IA, AD </small></h1>
 	</div>
 				  <p>Rodolfo Novak hails from São Paulo, Brazil and calls Toronto, Canada home, where he lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating more meaningful consumer experiences.  He has integrated that focus into the latest ventures that he co-founded, Ripe Apps in the mobile applications space and Quandl, a disruptive search engine and platform.</p>
 				  <p>He is fluent in English, Brazilian Portuguese, Spanish and "L33t-speak".</p>
