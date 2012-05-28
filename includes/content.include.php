@@ -4,7 +4,7 @@
 		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
 		<div  id="bio"></div>
 		<br><br>
-		 <h1>Rodolfo Novak <small><i>a.k.a</i>  nvk</small></h1>
+		 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
  		 <p>Product Developer, Disruptive Entrepreneur, UX & Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, Shutterbug, Commuter Cyclist, Founder and CEO of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Founder  and CPO of <a href="http://www.quandl.com">Quandl</a>.</p>
 		 <br>
 		 <h4>You should follow me on Twitter <a href="http://twitter.com/nvk">here</a></h4>
@@ -19,7 +19,7 @@
 	</div>
 				  <p>Rodolfo Novak hails from São Paulo, Brazil and calls Toronto, Canada home, where he lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating more meaningful consumer experiences.  He has integrated that focus into the latest ventures that he co-founded, Ripe Apps in the mobile applications space and Quandl, a disruptive search engine and platform.</p>
 				  <p>He is fluent in English, Brazilian Portuguese, Spanish and "L33t-speak".</p>
-				  <p>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></p>
+				  <h4>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h4>
 	 
 <?php include 'includes/flickr.php'; ?>
 <br><br>
