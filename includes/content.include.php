@@ -142,6 +142,11 @@
 				  <p>All men's miseries derive from not being able to sit in a quiet room alone.</p>
 				  <small>Blaise Pascal</small>
 				</blockquote>
+				
+				<blockquote>
+				  <p>The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made. When was the last time a technology with a scale like that was so error-free? The Web, in comparison, is a joke. The Web was done by amateurs.</p>
+				  <small>Alan Kay</small>
+				</blockquote>
   
 				<blockquote>
 				  <p>Imagination is more important than knowledge.</p>
