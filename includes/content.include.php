@@ -159,6 +159,12 @@
 				</blockquote>
 				
 				<blockquote>
+				  <p>The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.</p>
+				  <small>Alvin Toffler</small>
+				</blockquote>
+				
+				
+				<blockquote>
 				  <p>Quiet people have the loudest minds.</p>
 				  <small>S. Hawking</small>
 				</blockquote>
@@ -183,6 +189,11 @@
 				  <small>Anais Nin</small>
 				</blockquote>
   
+				<blockquote>
+				  <p>I skate to where the puck is going to be, not where it has been.'</p>
+				  <small>Wayne Gretzky</small>
+				</blockquote>
+
 				<blockquote>
 				  <p>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
 				  <small>S. Jobs</small>
@@ -224,8 +235,13 @@
 				</blockquote>
   
 				<blockquote>
-				  <p>Magic is a science. Miracle is the work. Mind is a laboratory.
+				  <p>Magic is a science. Miracle is the work. Mind is a laboratory.</p>
 				  <small>Toba Beta</small>
+				</blockquote>
+
+				<blockquote>
+				  <p>If things aren’t breaking, then you’re not moving fast enough</p>
+				  <small>Mark Zuckerberg</small>
 				</blockquote>
   
 				<blockquote>
