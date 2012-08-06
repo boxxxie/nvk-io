@@ -114,6 +114,10 @@ li span.label{
 	font-weight:normal;
 	vertical-align:baseline;
 }
+.tw-wording{
+	vertical-align:middle;
+
+}
 /*.flick-stuff-v2 img:hover{
 	width:auto;
 	z-index:9999;
