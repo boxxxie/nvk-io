@@ -106,17 +106,6 @@
 						<li>Twitter: <a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.nvk.io%2F&amp;source=tweetbutton&amp;text=Saying%20hi%20from%20your%20website%20%23ux%20%23design&amp;url=http%3A%2F%2Fwww.nvk..io%2F&amp;via=nvk" target="_blank">Message @nvk</a> (or public reply <a href="http://twitter.com/nvk">@nvk</a>)</li>
 						<li>Email I respond faster to emails that are short. Two-liners I often reply to immediately. 
 							<br/>Say hi@nvk.io</li>
-						<li>Old school? Leave a voice mail:<br/>
-						<code class="" style="width:30%;color:#000;display:inline-block;">
-						+1 (647) 931-1377 [T.O. Canada]
-						<br/>+1 (646) 867-0936 [NYC US]
-						<br/>+55 (011) 3717-4382 [SP BRA]</code></li>
-						<li>Snail mail?<br/><code class="" style="width:30%;color:#000;display:inline-block;">
-							Rodolfo Novak<br/>
-							50 Charles St East, PO Box 342<br/>
-							Toronto ON M4Y 2L7<br/>
-							Canada </code>
-							</li>
 					</ol>
 </section>
 
