@@ -63,7 +63,7 @@
 
 </section>
 
-<div  id="availability"></div>
+<!-- <div  id="availability"></div>
 <section>		
 	
 	<div class="page-header">
@@ -72,7 +72,7 @@
 				<p>
 				Always changing, please contact me here: <a href="#contact">Contact</a>
 				</p>
-</section>
+</section> -->
 
 
 

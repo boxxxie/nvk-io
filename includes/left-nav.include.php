@@ -3,7 +3,7 @@
 					<li><a href="#home">Home</a></i>
 					<li><a href="#bio">About Me</a></i>
 					<li><a href="#working">Working</a></i>
-					<li><a href="#availability">Availability </a></i>
+					<!-- <li><a href="#availability">Availability </a></i> -->
 					<li><a href="#clients">Clients</a></i>
 					<li><a href="#contact">Contact</a></i>
 					<li><a href="#quotes">Quotes</a></i>
