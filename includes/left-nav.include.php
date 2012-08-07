@@ -7,6 +7,7 @@
 					<li><a href="#clients">Clients</a></i>
 					<li><a href="#contact">Contact</a></i>
 					<li><a href="#quotes">Quotes</a></i>
+					<li><a href="#books">Books</a></i>
 					<li><a href="#tools">Tool I Use</a></i>
 				</ul>
 				<ul class="nav nav-list left-nav social-text">
