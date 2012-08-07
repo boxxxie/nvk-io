@@ -124,7 +124,7 @@ li span.label{
 	vertical-align:middle;
 	
 }*/
-a.abooks:hover{
+a.abooks:hover small{
 	text-decoration:none;
 }
 /*#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, sans-serif; color:#FFF;}
