@@ -124,7 +124,7 @@ li span.label{
 	vertical-align:middle;
 	
 }*/
-blockquote.books a:hover{
+a.abooks:hover{
 	text-decoration:none;
 }
 /*#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, sans-serif; color:#FFF;}
