@@ -1,6 +1,6 @@
 <div style="nav-container">
 				<ul class="nav nav-list left-nav">
-					<li><a href="#home">Home</a></i>
+					<!-- <li><a href="#home">Home</a></i> -->
 					<li><a href="#bio">About Me</a></i>
 					<li><a href="#working">Working</a></i>
 					<!-- <li><a href="#availability">Availability </a></i> -->
