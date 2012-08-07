@@ -28,7 +28,7 @@
 <div  id="working"></div>
 <section>		 
 	<div class="page-header">
-				  <h1>Working <small>This is what's been keeping me busy... very busy...</small></h1>
+				  <h1>Working <small>This is what's been keeping me busy.</small></h1>
 	</div>
 	<div class="row year">
 		<h2 class="span2">2012</h2>
