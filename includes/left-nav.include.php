@@ -14,19 +14,20 @@
 				<li class="divider"></li>
 					<li><a href="http://twitter.com/nvk">Twitter</a></li>
 					<li><a href="http://github.com/nvk">GitHub</a></li>
-					<li><a href="http://plus.google.com/104013787268165996646">Google+</a></li>
+					<!-- <li><a href="http://plus.google.com/104013787268165996646">Google+</a></li> -->
 					<li><a href="http://ca.linkedin.com/in/rodolfonovak">LinkedIN</a></li>
-					<li><a href="http://angel.co/rodolfo-novak">Angle List</a></li>
+					<!-- <li><a href="http://angel.co/rodolfo-novak">Angle List</a></li> -->
+				<!-- <li class="divider"></li>
+									<li><a href="http://news.ycombinator.com/submitted?id=nvk">HackerNews</a></li>
+									<li><a href="http://pinboard.in/u:nvk/from:instapaper">Instapaper</a></li>
+									<li><a href="http://pinboard.in/u:nvk/public/">Pinboard</a></li> -->
 				<li class="divider"></li>
-					<li><a href="http://news.ycombinator.com/submitted?id=nvk">HackerNews</a></li>
-					<li><a href="http://pinboard.in/u:nvk/from:instapaper">Instapaper</a></li>
-					<li><a href="http://pinboard.in/u:nvk/public/">Pinboard</a></li>
-				<li class="divider"></li>
-					<li><a href="http://gallery.me.com/rodolfonovak#100043">Portfolio [pw]</a></li>
-					<li><a href="http://urbanaut.me/">Photography</a></li>
-					<li><a href="http://www.iosto.ca/">#iOSTO</a></li>
-					<li><a href="http://www.ripeapps.com/">Ripe Apps</a></li>
+					<!-- <li><a href="http://gallery.me.com/rodolfonovak#100043">Portfolio [pw]</a></li> -->
+					<!-- <li><a href="http://urbanaut.me/">Photography</a></li> -->
 					<li><a href="http://quandl.com/">Quandl</a></li>
+					<li><a href="http://www.iosto.ca/">#iOSTO</a></li>
+					<li><a href="http://www.uxd.io/">#UXDTO</a></li>
+					<li><a href="http://www.ripeapps.com/">Ripe Apps</a></li>
 				</ul>
 	</div>
 	<script>
