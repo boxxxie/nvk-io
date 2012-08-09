@@ -5,7 +5,7 @@
 		<div  id="bio"></div>
 		<br><br>
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
- 		 <p>Product Developer, Disruptive Entrepreneur, UX & Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, Shutterbug, Commuter Cyclist, Founder and CEO of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Founder  and CPO of <a href="http://www.quandl.com">Quandl</a>.</p>
+ 		 <p>Product Development, Disruptive Entrepreneur, UX & Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, Shutterbug, Commuter Cyclist, Founder and CEO of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Founder  and CPO of <a href="http://www.quandl.com">Quandl</a>.</p>
 		 <br>
 		 <h4><span class="tw-wording">You should <span> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @nvk</a></h4>
 		 
