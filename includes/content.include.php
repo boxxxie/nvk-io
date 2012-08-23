@@ -25,7 +25,7 @@
 				  <h4>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h4>
 				  </div>
 			<div class="span3">
-	<img src="http://m2.licdn.com/mpr/mpr/shrink_150_150/p/2/000/192/18a/25326cb.jpg"  class="img-polaroid">
+	<img src="http://m2.licdn.com/mpr/mpr/shrink_150_150/p/2/000/192/18a/25326cb.jpg"  class="img-polaroid pull-right" >
 			</div>		  
 		 </div>
 	 <br><br>
