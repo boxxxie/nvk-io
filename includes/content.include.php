@@ -370,6 +370,12 @@
 	  </a>
 	</blockquote>
 
+	<blockquote class"books">
+	  		<a class="abooks"href="http://www.amazon.com/gp/product/081297381X?ie=UTF8&camp=213733&creative=393185&creativeASIN=081297381X&linkCode=shr&tag=rnvk-20&redirect=true">
+		  <p>The Black Swan</p>
+	  <small>Nassim Nicholas Taleb</small>
+	  </a>
+	</blockquote>
 	
 	<blockquote class"books">
 	  		<a class="abooks"href="http://www.amazon.com/gp/product/1451648537?ie=UTF8&tag=rnvk-20&linkCode=shr&camp=213733&creative=393185&creativeASIN=1451648537&ref_=sr_1_1">
