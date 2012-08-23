@@ -16,14 +16,14 @@
 <section>	
 	<div class="page-header">
 		<div class="row">
-			<div class="span9">
+			<div class="span8">
 				  <h1>About me <small> Some Acronyms UX, GUI, IA, AD </small></h1>
 	</div>
 				  <p>Rodolfo Novak hails from São Paulo, Brazil and calls Toronto, Canada home, where he lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating more meaningful consumer experiences.  He has integrated that focus into the latest ventures that he co-founded, Ripe Apps in the mobile applications space and Quandl, a disruptive search engine and platform.</p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
 				  <h4>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h4>
 				  </div>
-			<div class="span3">
+			<div class="span4">
 	<img src="http://m2.licdn.com/mpr/mpr/shrink_150_150/p/2/000/192/18a/25326cb.jpg"  class="img-polaroid">
 			</div>		  
 		 </div>
