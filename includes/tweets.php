@@ -1,5 +1,5 @@
 <div class="tweets">
-	<script src="path/to/chirp.min.js"></script>
+	<script src="http://rodolfonovak.com/js/chirp.min.js"></script>
 	<script>Chirp({
 	  user: 'nvk', //Twitter username
 	  max: 10, //Maximum number of tweets to show 
