@@ -13,6 +13,7 @@
 				<ul class="nav nav-list left-nav social-text">
 				<li class="divider"></li>
 					<li><a href="http://twitter.com/nvk">Twitter</a></li>
+					<li><a href="http://alpha.app.net/nvk">App.net</a></li>
 					<li><a href="http://github.com/nvk">GitHub</a></li>
 					<!-- <li><a href="http://plus.google.com/104013787268165996646">Google+</a></li> -->
 					<li><a href="http://ca.linkedin.com/in/rodolfonovak">LinkedIN</a></li>
