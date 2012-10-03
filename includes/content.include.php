@@ -29,7 +29,7 @@
 			</div>		  
 		 </div>
 	 <br><br>
-<?php include 'includes/flickr.php'; ?>
+<?php #include 'includes/flickr.php'; ?>
 <br><br>
 </section>
 
