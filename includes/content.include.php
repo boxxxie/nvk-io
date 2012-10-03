@@ -5,7 +5,7 @@
 		<div  id="bio"></div>
 		<br><br>
 		 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
- 		 <p>Product Development, Entrepreneurship, UX & Designer, Mac/BSD Biased, CLI fan, Inbox 0, Knolling, Shutterbug, Commuter Cyclist, Founder of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Co-Founder of <a href="http://www.quandl.com">Quandl</a>.</p>
+ 		 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Co-Founder of <a href="http://www.quandl.com">Quandl</a>.</p>
 		 <br>
 		 <h4><span class="tw-wording">You should <span> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @nvk</a></h4>
 		 
@@ -20,7 +20,7 @@
 	</div>
 	<div class="row">
 		<div class="span7">
-				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is currently integrating that focus into his latest ventures where he is co-foundedr: Ripe Apps in the mobile applications industry and Quandl, a new search engine for numerical, time-series data.</p>
+				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is a consultant and a partner at Ripe Apps in the mobile applications industry and Quandl, a new search engine for numerical, time-series data.</p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
 				  <h4>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h4>
 				  </div>
