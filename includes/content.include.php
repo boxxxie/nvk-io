@@ -22,7 +22,7 @@
 <div  id="bio"></div>
 				  <h1>About me <small> UX, UI, IA, AD </small></h1>
 				  </div>
-	</div>
+
 	<div class="row">
 		<div class="span7">
 				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is a consultant and a partner at Ripe Apps in the mobile applications industry and Quandl, a new search engine for numerical, time-series data.</p>
