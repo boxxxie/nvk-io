@@ -1,13 +1,17 @@
 <div id="home"></div>
 <section>
 <div class="jumbotron subhead">
-		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
-		<div  id="bio"></div>
+	<div  id="home"></div>
+			 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
+			 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Co-Founder of <a href="http://www.quandl.com">Quandl</a>. Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</p>
+			 <br>
+			 <h4><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h4>
 		<br><br>
-		 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
- 		 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Co-Founder of <a href="http://www.quandl.com">Quandl</a>. Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</p>
-		 <br>
-		 <h4><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h4>
+		
+		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
+		
+		
+		 
 		 
 		<!-- <div class="flick-stuff"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=h&source=user&user=29044926%40N00"></script></div> -->
 </div>
@@ -15,8 +19,9 @@
 	  
 <section>	
 	<div class="page-header">
-
+<div  id="bio"></div>
 				  <h1>About me <small> UX, UI, IA, AD </small></h1>
+				  </div>
 	</div>
 	<div class="row">
 		<div class="span7">
