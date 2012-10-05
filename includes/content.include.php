@@ -5,7 +5,7 @@
 			 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
 			 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Co-Founder of <a href="http://www.quandl.com">Quandl</a>. Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</p>
 			 <br>
-			 <h4><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h4>
+			 <h5><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h5>
 		<br><br>
 		
 		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
@@ -28,7 +28,7 @@
 		<div class="span7">
 				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is a consultant and a partner at Ripe Apps in the mobile applications industry and Quandl, a new search engine for numerical, time-series data.</p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
-				  <h4>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h4>
+				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h5>
 				  </div>
 			<div class="span3">
 	<img src="http://m2.licdn.com/mpr/mpr/shrink_150_150/p/2/000/192/18a/25326cb.jpg"  class="img-polaroid pull-right" >
@@ -94,7 +94,7 @@
 <section>		
 	
 	<div class="page-header">
-				  <h1>Clients & Partners <small>I have the pleasure of working with some incredible people</small></h1>
+				  <h1>Clients & Partners <small>I have the pleasure of working with incredible people</small></h1>
 				</div>
 				<p>BMO, CORUS, QUANDL, CHANTAL DESLOGES,&nbsp;RIPE APPS, Wattpad.com, KLICK (Accounts – Walmart, Ford, Novartis, Pfizer, Rogers, Centrum, Abbott, Teva), CP+B Group (Accounts – Kamik), BERKLEY Canada, DELOITTE, LAVALIFE, HRPA, WALMART,VM (Accounts – Kijiji, e-Bay), PHCP + Swarskof, BMW, NOKIA, BRIARWOODS, GREENOFFICES, DELPARK HOMES, ROBERT HALF, DIVERSICARE, HAZELTON, OPTIMUM CARE, VIDESKTOP, CITYFLITZ, SENECA COLLEGE, HOTJET, FARENGROUP, BRIGHTWORKS, TBS, LIBERTY HOME GROUP, SUNSET HOMES, EZ-RESULTS, NEWANDUSEDCARS, DANIELS MAINTENANCE AND CONSTRUCTION, NOKIA.</p>
 </section>
@@ -565,6 +565,7 @@
 				<div  class="span5">
 			      <h3>Code</h3>
 			      <ul>
+			   	    <li><a href="http://">ZSH							</a></li>
 			        <li><a href="http://">TextMate							</a></li>
 					<li><a href="http://">VIM								</a></li>
 					<li><a href="http://">HomeBrew							</a></li>
