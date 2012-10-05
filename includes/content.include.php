@@ -94,9 +94,9 @@
 <section>		
 	
 	<div class="page-header">
-				  <h1>Clients and Partners <small>I have the pleasure of working with some incredible people</small></h1>
+				  <h1>Clients & Partners <small>I have the pleasure of working with some incredible people</small></h1>
 				</div>
-				<p>BMO, CORUS, Wikiposit, CHANTAL DESLOGES,&nbsp;RIPE APPS, Wattpad.com, KLICK (Accounts – Walmart, Ford, Novartis, Pfizer, Rogers, Centrum, Abbott, Teva), CP+B Group (Accounts – Kamik), BERKLEY Canada, DELOITTE, LAVALIFE, HRPA, WALMART,VM (Accounts – Kijiji, e-Bay), PHCP + Swarskof, BMW, NOKIA, BRIARWOODS, GREENOFFICES, DELPARK HOMES, ROBERT HALF, DIVERSICARE, HAZELTON, OPTIMUM CARE, VIDESKTOP, CITYFLITZ, SENECA COLLEGE, HOTJET, FARENGROUP, BRIGHTWORKS, TBS, LIBERTY HOME GROUP, SUNSET HOMES, EZ-RESULTS, NEWANDUSEDCARS, DANIELS MAINTENANCE AND CONSTRUCTION, NOKIA.</p>
+				<p>BMO, CORUS, QUANDL, CHANTAL DESLOGES,&nbsp;RIPE APPS, Wattpad.com, KLICK (Accounts – Walmart, Ford, Novartis, Pfizer, Rogers, Centrum, Abbott, Teva), CP+B Group (Accounts – Kamik), BERKLEY Canada, DELOITTE, LAVALIFE, HRPA, WALMART,VM (Accounts – Kijiji, e-Bay), PHCP + Swarskof, BMW, NOKIA, BRIARWOODS, GREENOFFICES, DELPARK HOMES, ROBERT HALF, DIVERSICARE, HAZELTON, OPTIMUM CARE, VIDESKTOP, CITYFLITZ, SENECA COLLEGE, HOTJET, FARENGROUP, BRIGHTWORKS, TBS, LIBERTY HOME GROUP, SUNSET HOMES, EZ-RESULTS, NEWANDUSEDCARS, DANIELS MAINTENANCE AND CONSTRUCTION, NOKIA.</p>
 </section>
 
 
