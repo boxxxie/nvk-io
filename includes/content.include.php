@@ -42,7 +42,7 @@
 <div  id="working"></div>
 <section>		 
 	<div class="page-header">
-				  <h1>Working <small>This is what's been keeping me busy.</small></h1>
+				  <h1>Working <small>Message me <a href='mailto:rodolfo.novak@gmail.com'>here</a> to see more of my work<!-- This is what's been keeping me busy. --></small></h1>
 	</div>
 	<div class="row year">
 		<h2 class="span2">2012</h2>
@@ -449,12 +449,12 @@
 	  </a>
 	</blockquote>
 
-	<blockquote class"books">
+	<!-- <blockquote class"books">
 	  		<a class="abooks"href="http://www.amazon.com/gp/product/0452297923?ie=UTF8&tag=rnvk-20&linkCode=shr&camp=213733&creative=393185&creativeASIN=0452297923&ref_=sr_1_1">
 		  <p>The Dyslexic Advantage: Unlocking the Hidden Potential of the Dyslexic Brain</p>
 	  <small>Brock Eide </small>
 	  </a>
-	</blockquote>
+	</blockquote> -->
 	
 	<blockquote class"books">
 	  		<a class="abooks"href="http://www.amazon.com/gp/product/0316037729?ie=UTF8&tag=rnvk-20&linkCode=shr&camp=213733&creative=393185&creativeASIN=0316037729&ref_=sr_1_1">
