@@ -55,7 +55,7 @@
 	<div class="row year">
 		<h2 class="span2">2011</h2>
 		<div class="span8">
-			<p><strong>BMO</strong> - Mobile (iPhone+Android Apps), Web Community Projects, Online Banking Tour, Investment Line home, Web Ads, SmartSteps, Capital Markets UXD, www.bmo.com UX Design (<a href="http://www.forrester.com/rb/Research/best_and_worst_of_website_user_experience%2C/q/id/59283/t/2">Forester Research agrees &gt;</a>) | <strong>Corus Entertainment, Kids Can Press, Watch More TV Interactive</strong> - Scaredy Squirrel iPhone game | <strong>Ripe Apps</strong> - Mobile (iPhone App ["Reminders!", "I'm Right Here", "Geo Alerts!", "Weblicious", "Tymoot", "BoardBox"], Website and Facebook Application) |<strong>Signature Stoneworks</strong> Branding and Collateral| <strong>Wattpad.com</strong> - iPhone eBook Reader GUI/UX Design Updated and Web UXD Roadmap | <a href="http://chantaldesloges.ca/"><strong>CDPC Chantal Desloges Lawyers</strong> </a>- Collateral and Printing
+			<p><strong>BMO</strong> - Mobile (iPhone+Android Apps), Web Community Projects, Online Banking Tour, Investment Line home, Web Ads, SmartSteps, Capital Markets UXD, www.bmo.com UX Design (<a href="http://www.forrester.com/rb/Research/best_and_worst_of_website_user_experience%2C/q/id/59283/t/2">Forester Research about the project</a>) | <strong>Corus Entertainment, Kids Can Press, Watch More TV Interactive</strong> - Scaredy Squirrel iPhone game | <strong> WATTPAD.com</strong> - <a href="http://itunes.apple.com/app/wattpad-free-books-stories/id306310789">iPhone eBook</a> Reader GUI/UX Design Updated and <a href="http://wattpad.com">Web UXD</a> Roadmap | <strong>Ripe Apps</strong> - Mobile (iPhone App ["Reminders!", "I'm Right Here", "Geo Alerts!", "Weblicious", "Tymoot", "BoardBox"], Website and Facebook Application) |<strong>Signature Stoneworks</strong> Branding and Collateral | <a href="http://chantaldesloges.ca/"><strong>CDPC Chantal Desloges Lawyers</strong> </a>- Collateral and Printing
 			</p>
 		</div>
 	</div>
@@ -108,18 +108,15 @@
 				  <h1>Contact <small>Communication Protocol</small></h1>
 				</div>
 				<p>
-				I'd love to help you or your company discover a new way to shine – let's talk. <br/>
 				Want to me to design, speak, build something or just say hi?
-				</p>
-				My communication preferences, in short:
-				<p>
-				See what I'm up to on my <a href="#bio">Bio</a>, and please consider contacting me via:
+				Please consider contacting me via:
 				</p>
 					<ol>
+						<li>Email I respond faster to emails that are short. Two-liners I often reply to immediately. 
+							<br/>Email me <a href='mailto:rodolfo.novak@gmail.com'>here</a></li>
 						<li>Skype: <a href="skype:rnovak">rnovak</a></li>
 						<li>Twitter: <a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.nvk.io%2F&amp;source=tweetbutton&amp;text=Saying%20hi%20from%20your%20website%20%23ux%20%23design&amp;url=http%3A%2F%2Fwww.nvk..io%2F&amp;via=nvk" target="_blank">Message @nvk</a> (or public reply <a href="http://twitter.com/nvk">@nvk</a>)</li>
-						<li>Email I respond faster to emails that are short. Two-liners I often reply to immediately. 
-							<br/>Say hi@nvk.io</li>
+						
 					</ol>
 </section>
 
