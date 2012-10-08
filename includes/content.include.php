@@ -26,7 +26,7 @@
 
 	<div class="row">
 		<div class="span7">
-				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is a consultant and a partner at Ripe Apps in the mobile applications industry and Quandl, a new search engine for numerical, time-series data.</p>
+				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is a consultant and a partner at Ripe Apps in the web and mobile applications industry.</p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
 				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h5>
 				  </div>
@@ -47,7 +47,7 @@
 	<div class="row year">
 		<h2 class="span2">2012</h2>
 		<div class="span8">
-			<p><strong>Quandl.com</strong> – Intelligent search for numerical data (<a href="http://quandl.com"> Beta</a>) - Product development, UX Design and GUI | <strong>Apptasti.ca</strong> - Web and Mobile Application | <strong>Ripe Apps</strong> - <a href="http://ripeapps.com/v3">New Website</a> , Mobile (iPhone App [ "<a href="http://itunes.apple.com/app/tymoot/id423231052">Tymoot</a>", "<a href="http://itunes.apple.com/app/id438734974">BoardBox</a>", "<a href="http://itunes.apple.com/app/id473735857">Versatiled</a>", "<a href="http://itunes.apple.com/app/id414018326">Notator</a>", "<a href="http://itunes.apple.com/app/reminders/id389611206">Reminders!</a>", "<a href="http://itunes.apple.com/app/id400480549?mt=8">I'm Right Here</a>", "<a href="http://itunes.apple.com/app/weblicious-a-new-way-to-lick/id414244548">Weblicious</a>", "<a href="http://itunes.apple.com/us/app/qr-right/id496947232?mt=12">QR Right</a>"] and <a href="http://tymoot.ripeapps.com">Facebook Application)</a>| <a href="http://chantaldesloges.ca/">CDPC Chantal Desloges Lawyers </a>- Collateral and Printing
+			<p><strong><a href="http://quandl.com">Quandl.com</a></strong> – Intelligent search for numerical data - Product development, UX Design and GUI | <strong>Apptasti.ca</strong> - Web and Mobile Application | <strong>Ripe Apps</strong> - <a href="http://ripeapps.com/v3">New Website</a> , Mobile (iPhone App [ "<a href="http://itunes.apple.com/app/tymoot/id423231052">Tymoot</a>", "<a href="http://itunes.apple.com/app/id438734974">BoardBox</a>", "<a href="http://itunes.apple.com/app/id473735857">Versatiled</a>", "<a href="http://itunes.apple.com/app/id414018326">Notator</a>", "<a href="http://itunes.apple.com/app/reminders/id389611206">Reminders!</a>", "<a href="http://itunes.apple.com/app/id400480549?mt=8">I'm Right Here</a>", "<a href="http://itunes.apple.com/app/weblicious-a-new-way-to-lick/id414244548">Weblicious</a>", "<a href="http://itunes.apple.com/us/app/qr-right/id496947232?mt=12">QR Right</a>"] and <a href="http://tymoot.ripeapps.com">Facebook Application)</a>| <a href="http://chantaldesloges.ca/">CDPC Chantal Desloges Lawyers </a>- Collateral and Printing
 			</p>
 		</div>
 	</div>
