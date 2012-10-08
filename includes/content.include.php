@@ -3,7 +3,7 @@
 <div class="jumbotron subhead">
 	<div  id="home"></div>
 			 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
-			 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a> &amp; Co-Founder of <a href="http://www.quandl.com">Quandl</a>. Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</p>
+			 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a>. Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</p>
 			 <br>
 			 <h5><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h5>
 		<br><br>
