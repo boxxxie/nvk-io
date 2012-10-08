@@ -112,8 +112,7 @@
 				Please consider contacting me via:
 				</p>
 					<ol>
-						<li>Email I respond faster to emails that are short. Two-liners I often reply to immediately. 
-							<br/>Email me <a href='mailto:rodolfo.novak@gmail.com'>here</a></li>
+						<li>E-mail me <a href='mailto:rodolfo.novak@gmail.com'>here</a> — I respond faster to emails that are short. Two-liners I often reply to immediately.</li>
 						<li>Skype: <a href="skype:rnovak">rnovak</a></li>
 						<li>Twitter: <a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.nvk.io%2F&amp;source=tweetbutton&amp;text=Saying%20hi%20from%20your%20website%20%23ux%20%23design&amp;url=http%3A%2F%2Fwww.nvk..io%2F&amp;via=nvk" target="_blank">Message @nvk</a> (or public reply <a href="http://twitter.com/nvk">@nvk</a>)</li>
 						
