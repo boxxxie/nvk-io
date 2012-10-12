@@ -3,7 +3,8 @@
 <div class="jumbotron subhead">
 	<div  id="home"></div>
 			 <h1>Rodolfo Novak <small><i>a.k.a</i>  <a href="http://twitter.com/nvk">nvk</a></small></h1>
-			 <p>Product Development, Entrepreneurship, UX & Designer. I'm the Founder of <a href="http://www.ripeapps.com">Ripe Apps</a>. Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</p>
+			 <p>I do Product Development, User Experience and Interface Design.<br> 
+				 <small>Entrepreneurship, Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</small></p>
 			 <br>
 			 <h5><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h5>
 		<br><br>
@@ -26,7 +27,7 @@
 
 	<div class="row">
 		<div class="span7">
-				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful consumer experiences.  He is a consultant and a partner at Ripe Apps in the web and mobile applications industry.</p>
+				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful user experiences.  He consultants companies and is a partner at Ripe Apps in the web and mobile applications industry.</p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
 				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h5>
 				  </div>
@@ -105,7 +106,7 @@
 <section>		
 	
 	<div class="page-header">
-				  <h1>Contact <small>Communication Protocol</small></h1>
+				  <h1>Contact <small></small></h1>
 				</div>
 				<p>
 				Want to me to design, speak, build something or just say hi?
@@ -548,30 +549,28 @@
 				<div class="span5">
 			      <h3>UX & Design</h3>
 			      <ul>
-			        <li><a href="http://">Balsamiq				</a></li>
-					<li><a href="http://">Adobe CS				</a></li>
-					<li><a href="http://">ColorChooser			</a></li>
-					<li><a href="http://">Marked (md preview)	</a></li>
-					<li><a href="http://">Skitch				</a></li>
-					<li><a href="http://">SketchUp				</a></li>
-					<li><a href="http://">IconSlate			</a></li>
-					<li><a href="http://">OmniGraffle Pro		</a></li>
+			        <li><a href="http://Balsamiq.com">Balsamiq				</a></li>
+					<li><a href="http://adobe.com">Adobe CS				</a></li>
+					<li><a href="http://itunes.apple.com/app/colorchooser/id445279824">ColorChooser			</a></li>
+					<li><a href="http://markedapp.com/">Marked - Markeddown	</a></li>
+					<li><a href="http://evernote.com">Skitch				</a></li>
+					<li><a href="http://">				</a></li>
+					<li><a href="http://www.kodlian.com">IconSlate			</a></li>
+					<li><a href="http://www.omnigroup.com/products/omnigraffle/">OmniGraffle Pro		</a></li>
 			      </ul>
 			    </div>
 				<div  class="span5">
 			      <h3>Code</h3>
 			      <ul>
-			   	    <li><a href="http://">ZSH							</a></li>
-			        <li><a href="http://">TextMate							</a></li>
-					<li><a href="http://">VIM								</a></li>
-					<li><a href="http://">HomeBrew							</a></li>
-					<li><a href="http://">Git Dropbox and GitHub			</a></li>
-					<li><a href="http://">grc (General Pourpose Coloriser)	</a></li>
-					<li><a href="http://">FileMerge						</a></li>
-					<li><a href="http://">Xcode							</a></li>
-					<li><a href="http://">Mosh								</a></li>
-					<li><a href="http://">Pow.cx							</a></li>
-					<li><a href="http://">Jenkins</a></li>
+			   	    <li><a href="http://www.zsh.org/">ZSH							</a></li>
+			        <li><a href="https://github.com/textmate/textmate">TextMate							</a></li>
+					<li><a href="http://www.vim.org/">VIM								</a></li>
+					<li><a href="http://mxcl.github.com/homebrew/">HomeBrew							</a></li>
+					<li><a href="http://github.com">Git Dropbox and GitHub			</a></li>
+					<li><a href="http://github.com/robbyrussell/oh-my-zsh">Oh My Zsh	</a></li>
+					<li><a href="http://apple.com">FileMerge						</a></li>
+					<li><a href="http://apple.com">Xcode							</a></li>
+					<li><a href="http://Pow.cx">Pow.cx							</a></li>
 			      </ul>
 			    </div>
 			</div>
@@ -614,39 +613,41 @@
 				<div class="span5">
 			      <h3>Workflow</h3>
 			      <ul>
-			        <li><a href="http://">Alfred						</a></li>
-					<li><a href="http://">nvALT (Notational Velocity)	</a></li>
-					<li><a href="http://">Fantastical					</a></li>
-					<li><a href="http://">CLI							</a></li>
-					<li><a href="http://">Typinator					</a></li>
-					<li><a href="http://">Growl						</a></li>
-					<li><a href="http://">QR Right					</a></li>
-					<li><a href="http://">CubeMask					</a></li>
-					<li><a href="http://">iPhoto						</a></li>
-					<li><a href="http://">VirtualBox					</a></li>
-					<li><a href="http://">Transmit					</a></li>
-					<li><a href="http://">Screen Saring Menulet		</a></li>
-					<li><a href="http://">NameChanger					</a></li>
-					<li><a href="http://">AppZapper					</a></li>
-					<li><a href="http://">Billings					</a></li>
-					<li><a href="http://">iWork Suite					</a></li>
-					<li><a href="http://">Plex					</a></li>
-					<li><a href="http://">Reminders!</a></li>
-					<li><a href="http://">Teleport</a></li>
-					<li><a href="http://">AppFigures</a></li>
+			        <li><a href="http://www.alfredapp.com/">Alfred						</a></li>
+					<li><a href="http://brettterpstra.com/project/nvalt/">nvALT (Notational Velocity)	</a></li>
+					<li><a href="http://mindnode.com/">MindNode 						</a></li>
+					<li><a href="http://flexibits.com/">Fantastical					</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Command-line_interface">CLI							</a></li>
+					<li><a href="http://www.ergonis.com/products/typinator/">Typinator					</a></li>
+					<li><a href="http://growl.info/">Growl						</a></li>
+					<li><a href="http://itunes.apple.com/app/qr-right/id496947232">QR Right					</a></li>
+					<li><a href="http://itunes.apple.com/app/cube-mask/id524978213">CubeMask					</a></li>
+					<li><a href="http://apple.com">iPhoto						</a></li>
+					<li><a href="http://www.virtualbox.org/">VirtualBox					</a></li>
+					<li><a href="http://panic.com/transmit/">Transmit					</a></li>
+					<li><a href="http://www.klieme.com/ScreenSharingMenulet.html">Screen Saring Menulet		</a></li>
+					<li><a href="http://www.mrrsoftware.com/MRRSoftware/NameChanger.html">NameChanger					</a></li>
+					<li><a href="http://appzapper.com/">AppZapper					</a></li>
+					<li><a href="http://www.marketcircle.com/billings/">Billings					</a></li>
+					<li><a href="http://apple.com">iWork Suite					</a></li>
+					<li><a href="http://plexapp.com">Plex					</a></li>
+					<li><a href="http://itunes.apple.com/app/reminders/id389611206">Reminders!</a></li>
+					<li><a href="http://appfigures.com">AppFigures</a></li>
 			      </ul>
 			      <h3>Communication & Collaboration</h3>
 			      <ul>
-					<li><a href="http://">Adium						</a></li>
-					<li><a href="http://">Echofon						</a></li>
-					<li><a href="http://">ngNix (IRC Server)</a></li>
-					<li><a href="http://">Grove.io (IRC Server)</a></li>
-					<li><a href="http://">Mail.app</a></li>
-					<li><a href="http://">Pivotal Tracker</a></li>
-					<li><a href="http://">Trello</a></li>
-					<li><a href="http://">DropBox</a></li>
-					<li><a href="http://">Skype</a></li>
-					<li><a href="http://">ZenDesk</a></li>
+					<li><a href="http://www.adiumx.com">Adium						</a></li>
+					<li><a href="http://tapbots.com/software/tweetbot/">TweetBot						</a></li>
+					<li><a href="http://www.echofon.com/">Echofon						</a></li>
+					<li><a href="http://ngircd.barton.de">ngNix (IRC Server)</a></li>
+					<li><a href="http://grove.io">Grove.io (IRC Server)</a></li>
+					<li><a href="http://apple.com">Mail.app</a></li>
+					<li><a href="http://basecamphq.com">Basecamp</a></li>
+					<li><a href="http://trello.com">Trello</a></li>
+					<li><a href="http://dropbox.com">DropBox</a></li>
+					<li><a href="http://skype.com">Skype</a></li>
+					<li><a href="http://zendesk.com">ZenDesk</a></li>
+					<li><a href="http://uservoice.com">UserVoice</a></li>
 			      </ul>
 				  
 			    </div>
