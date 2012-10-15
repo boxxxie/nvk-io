@@ -27,7 +27,7 @@
 
 	<div class="row">
 		<div class="span7">
-				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful user experiences.  He consultants companies and is a partner at Ripe Apps in the web and mobile applications industry.</p>
+				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product development, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful user experiences.  He consults a wide variety of companies and is a partner at Ripe Apps in the web and mobile applications industry. </p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
 				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h5>
 				  </div>
