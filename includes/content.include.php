@@ -27,7 +27,7 @@
 
 	<div class="row">
 		<div class="span7">
-				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product strategy, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful user experiences.  He consults a wide variety of companies and is a partner at Ripe Apps in the web and mobile applications industry. </p>
+				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product strategy, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful user experiences.  He consults a wide variety of companies and is a partner at Ripe Apps in the web and mobile applications industry.</p>
 				  <p>He is fluent in English, Brazilian Portuguese and Spanish.</p>
 				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him.</a></h5>
 				  </div>
@@ -116,7 +116,7 @@
 						<li>E-mail me <a href='mailto:rodolfo.novak@gmail.com'>here</a> — I respond faster to emails that are short. Two-liners I often reply to immediately.</li>
 						<li>Skype: <a href="skype:rnovak">rnovak</a></li>
 						<li>Twitter: <a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.nvk.io%2F&amp;source=tweetbutton&amp;text=Saying%20hi%20from%20your%20website%20%23ux%20%23design&amp;url=http%3A%2F%2Fwww.nvk..io%2F&amp;via=nvk" target="_blank">Message @nvk</a> (or public reply <a href="http://twitter.com/nvk">@nvk</a>)</li>
-						
+						<li>Location: @Center for Social Innovation <br>215 Spadina Avenue, Suite 400 <br>Toronto ON M5T 2C7</li>
 					</ol>
 </section>
 
