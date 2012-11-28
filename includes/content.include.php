@@ -6,7 +6,6 @@
 			 <p>I do User Experience, Interface Design and Product Strategy<br> 
 				 <small>Entrepreneurship, Mac and CLI/ZSH fan, Inbox 0, Knolling, Shutterbug and Commuter Cyclist</small></p>
 			 <h5><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h5>
-		<br><br>
 		
 		
 		 
