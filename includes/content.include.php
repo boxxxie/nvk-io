@@ -9,8 +9,6 @@
 			 <h5><span>You should follow me on twitter <a href="http://twitter.com/nvk" >here</a> <a href="http://twitter.com/nvk" class="twitter-follow-button" data-show-count="true" data-lang="en"> @nvk</a></span></h5>
 		<br><br>
 		
-		<img src="http://farm5.staticflickr.com/4118/4869438206_ec78dccb5e_c.jpg" width="780">
-		
 		
 		 
 		 
@@ -22,7 +20,7 @@
 	<div class="page-header">
 <div  id="bio"></div>
 <br><br>
-				  <h1>About me <small> UX, UI, IA, AD </small></h1>
+				  <h1>About<small> UX, UI, IA, AD </small></h1>
 				  </div>
 
 	<div class="row">
@@ -106,18 +104,18 @@
 <section>		
 	
 	<div class="page-header">
-				  <h1>Contact <small></small></h1>
+				  <h1>Get in Touch<small></small></h1>
 				</div>
 				<p>
 				Want to me to design, speak, build something or just say hi?
 				Please consider contacting me via:
 				</p>
-					<ol>
+					<ul>
 						<li>E-mail me <a href='mailto:rodolfo.novak@gmail.com'>here</a> — I respond faster to emails that are short. Two-liners I often reply to immediately.</li>
 						<li>Skype: <a href="skype:rnovak">rnovak</a></li>
 						<li>Twitter: <a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.nvk.io%2F&amp;source=tweetbutton&amp;text=Saying%20hi%20from%20your%20website%20%23ux%20%23design&amp;url=http%3A%2F%2Fwww.nvk..io%2F&amp;via=nvk" target="_blank">Message @nvk</a> (or public reply <a href="http://twitter.com/nvk">@nvk</a>)</li>
 						<li>Location: @Center for Social Innovation <br>215 Spadina Avenue, Suite 400 <br>Toronto ON M5T 2C7</li>
-					</ol>
+					</ul>
 </section>
 
 
@@ -543,7 +541,7 @@
 <section>		
 	
 	<div class="page-header">
-				  <h1>Tools I Use <small>Talking shop</a></small></h1>
+				  <h1>Talking Shop: Recommended Tools</h1>
 				</div>
 			<div class="row">	
 				<div class="span5">
