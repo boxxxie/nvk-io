@@ -1,15 +1,13 @@
 <div style="nav-container">
 				<ul class="nav nav-list left-nav">
 					<!-- <li><a href="#home">Home</a></i> -->
-					<li><a href="#home">Home</a></i>
-					<li><a href="#bio">About Me</a></i>
-					<li><a href="#working">Working</a></i>
+					<li><a href="index.php">About Me</a></i>
+					<li><a href="working.php">Working</a></i>
 					<!-- <li><a href="#availability">Availability </a></i> -->
-					<li><a href="#clients">Clients</a></i>
-					<li><a href="#contact">Contact</a></i>
-					<li><a href="#quotes">Quotes</a></i>
-					<li><a href="#books">Books</a></i>
-					<li><a href="#tools">Tools I Use</a></i>
+					<li><a href="contact.php">Contact</a></i>
+					<li><a href="quotes.php">Quotes</a></i>
+					<li><a href="books.php">Books</a></i>
+					<li><a href="tools.php">Tools I Use</a></i>
 				</ul>
 				<ul class="nav nav-list left-nav social-text">
 				<li class="divider"></li>
@@ -26,7 +24,7 @@
 				<li class="divider"></li>
 					<!-- <li><a href="http://gallery.me.com/rodolfonovak#100043">Portfolio [pw]</a></li> -->
 					<!-- <li><a href="http://urbanaut.me/">Photography</a></li> -->
-					<li><a href="http://quandl.com/">Quandl</a></li>
+					<!-- <li><a href="http://quandl.com/">Quandl</a></li> -->
 					<li><a href="http://www.iosto.ca/">#iOSTO</a></li>
 					<li><a href="http://www.uxd.io/">#UXDTO</a></li>
 					<li><a href="http://www.ripeapps.com/">Ripe Apps</a></li>

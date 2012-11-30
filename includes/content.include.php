@@ -17,8 +17,8 @@
 <section>	
 	<div class="page-header">
 <div  id="bio"></div>
-<br><br>
-				  <h1>About<small> UX, UI, IA, AD </small></h1>
+<br><br><br><br>
+				  <h1>About him<small> UX, UI, IA, AD </small></h1>
 				  </div>
 
 	<div class="row">
