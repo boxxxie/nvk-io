@@ -31,7 +31,7 @@
 				<div class="span7">
 				  <p>Rodolfo Novak is from São Paulo, Brazil and calls Toronto, Canada home. He lives and breathes product strategy, entrepreneurship and design. Rodolfo is well versed in the start-up world and focused on improving product adoption by creating meaningful user experiences.  He consults a wide variety of companies and is a partner at Ripe Apps in the web and mobile applications industry. <!-- He is fluent in English, Brazilian Portuguese and Spanish. --></p>
 				  <p>He organizes <a href="http://iosto.ca">#iOSTO</a> with @DocHEx, Canada's largest iOS Dev Meetup, he also organizes <a href="http://uxd.io">UXD Toronto</a> Meetup</p>
-				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);">about him on LinkedIN.</a></h5>
+				  <h5>See some of the things people are saying <a href="http://www.linkedin.com/profile/view?id=13923042&amp;authType=name&amp;authToken=GG3f#recommendations">about him on LinkedIN.</a></h5>
 				</div>
 				<div class="span3">
 					<img src="http://m2.licdn.com/mpr/mpr/shrink_150_150/p/2/000/192/18a/25326cb.jpg"  class="img-polaroid pull-right" >

@@ -11,6 +11,7 @@
 				</ul>
 				<ul class="nav nav-list left-nav social-text">
 				<li class="divider"></li>
+					<li><a href="http://clarity.fm/nvk">Clarity</a></li>
 					<li><a href="http://twitter.com/nvk">Twitter</a></li>
 					<li><a href="http://alpha.app.net/nvk">App.net</a></li>
 					<li><a href="http://github.com/nvk">GitHub</a></li>

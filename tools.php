@@ -26,6 +26,7 @@
 					<div class="span5">
 				      <h3>UX & Design</h3>
 				      <ul>
+  						<li><a href="http://mindnode.com/">MindNode 						</a></li>
 				        <li><a href="http://Balsamiq.com">Balsamiq				</a></li>
 						<li><a href="http://adobe.com">Adobe CS				</a></li>
 						<li><a href="http://itunes.apple.com/app/colorchooser/id445279824">ColorChooser			</a></li>
@@ -57,7 +58,6 @@
 				      <h3>Web Resources</h3>
 				      <ul>
 					
-						<li><a href="javascript:(function()%7Bvar%20t=window.getSelection?window.getSelection().toString():document.selection.createRange().text;%20window.open=%22http://translate.google.com/?hl=en%23auto%7Cen%7C%22+t;%7D)()">Translate</a> <span class="label">Bookmarklet</span></li>
 						<li><a href="javascript:javascript:(function()%7Bwindow.add_js=function(s)%7Bvar%20k=(document.getElementsByTagName('head')%5B0%5D%7C%7Cdocument.body).appendChild(document.createElement('script'));k.src=s;k.type='text/javascript';%7D;window.MarkUp=window.MarkUp%7C%7C%7B%7D;window.MarkUp.id='ab8d0134-d71c-11df-b97b-001517bacb5f';add_js('http://api.markup.io/bootstrap.js?v=1&'+(+(new%20Date)))%7D)();">MarkUp</a> <span class="label">Bookmarklet</span></li>
 						<li><a href="javascript:void('http://centricle.com/tools/favelets/');marqueeColor=prompt('Marquee%20Color:','red');initMarquee=document.createElement('div');marquee=document.body.appendChild(initMarquee);marquee.style.position='absolute';marquee.style.border='dashed%201px%20red';initControls=document.createElement('div');controls=document.body.appendChild(initControls);controls.style.position='absolute';controls.style.top='-300px';controls.style.left='-300px';controls.style.width='85px';controls.style.background='%23eee';controls.style.padding='5px';controls.style.border='solid%201px%20%23ccc';controls.style.font='10px%20verdana,sans-serif';controls.style.width='85px';controls.style.zIndex='99';controls.innerHTML='%3Cb%3ECurrent:%3C/b%3E%3Cbr%3E%20x:%3Cspan%20id=%22currentX%22%3E0%3C/span%3E%20y:%3Cspan%20id=%22currentY%22%3E0%3C/span%3E%3Cbr%3E%3Cb%3EBegin:%3C/b%3E%3Cbr%3E%20x:%3Cspan%20id=%22beginX%22%3E0%3C/span%3E%20y:%3Cspan%20id=%22beginY%22%3E0%3C/span%3E%3Cbr%3E%3Cb%3EEnd:%3C/b%3E%3Cbr%3E%20x:%3Cspan%20id=%22endX%22%3E0%3C/span%3E%20y:%3Cspan%20id%20=%22endY%22%3E0%3C/span%3E%3Cbr%3E%3Cb%3EDimensions:%3C/b%3E%3Cbr%3E%20w:%3Cspan%20id=%22dimX%22%3E0%3C/span%3E%20h:%3Cspan%20id=%22dimY%22%3E0%3C/span%3E';document.onmousemove=follow;document.onmousedown=beginDrag;document.onmouseup=endDrag;currentX=document.getElementById('currentX');currentY=document.getElementById('currentY');beginX=document.getElementById('beginX');beginY=document.getElementById('beginY');endX=document.getElementById('endX');endY=document.getElementById('endY');dimX=document.getElementById('dimX');dimY=document.getElementById('dimY');var%20marqueeLeft=0;var%20marqueeTop=0;dragging=false;void(document.body.style.cursor='crosshair');function%20follow(e)%7Bx=e.pageX;y=e.pageY;controls.style.left=x+15+'px';controls.style.top=y+15+'px';currentX.innerHTML=x;currentY.innerHTML=y;if(dragging)%7Bmarquee.style.width=x-dragstartX+'px';dimX.innerHTML=Math.abs(x-dragstartX);marquee.style.height=y-dragstartY+'px';dimY.innerHTML=Math.abs(y-dragstartY);%7Dreturn%20true;%7D;function%20beginDrag(e)%7Bmarquee.style.width=0;marquee.style.height=0;marquee.style.borderColor=marqueeColor;dragging=true;x=e.pageX;y=e.pageY;marquee.style.visibility='visible';marquee.style.left=x+'px';marquee.style.top=y+'px';dragstartX=x;dragstartY=y;beginX.innerHTML=x;beginY.innerHTML=y;return%20true;%7Dfunction%20endDrag(e)%7Bdragging=false;x=e.pageX;y=e.pageY;endX.innerHTML=x;endY.innerHTML=y;return%20true;%7D">Selection Ruler</a> <span class="label">Bookmarklet</span></li>
 						<li><a href="javascript:function%20fnStartRule(sUrl)%7Bvar%20nScript=document.createElement('script');nScript.setAttribute('language','JavaScript');nScript.setAttribute('src',sUrl);document.body.appendChild(nScript);%7DfnStartRule('http://www.sprymedia.co.uk/design/rule/media/js/rule-loader.js');">Rule</a> <span class="label">Bookmarklet</span></li>
@@ -93,7 +93,6 @@
 				      <ul>
 				        <li><a href="http://www.alfredapp.com/">Alfred						</a></li>
 						<li><a href="http://brettterpstra.com/project/nvalt/">nvALT (Notational Velocity)	</a></li>
-						<li><a href="http://mindnode.com/">MindNode 						</a></li>
 						<li><a href="http://flexibits.com/">Fantastical					</a></li>
 						<li><a href="http://en.wikipedia.org/wiki/Command-line_interface">CLI							</a></li>
 						<li><a href="http://www.ergonis.com/products/typinator/">Typinator					</a></li>
